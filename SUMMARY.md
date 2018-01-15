@@ -1,6 +1,6 @@
 # Summary
 
-* [1. React는 무엇인가요?](what-is-react.md)
+* [1. What Is React](what-is-react.md)
 * [2. React Semantics/Terminology](react-semantics.md)
 * [3. React & Babel Basic Setup](react-basic-setup.md)
     * [3.1 Using react.js & react-dom.js](react-basic-setup/3.1.md)
