@@ -1,6 +1,6 @@
 # React 깨우치기
 
-원문은 [Frontend Masters](https://frontendmasters.com/)의 후원으로 [Cody Lindley](http://codylindley.com/)에 의해 작성되었으며,</br>한국어 번역은 [하얀마인드](http://hayanmind.com)의 후원으로 작성되었습니다.
+원문은 [Frontend Masters](https://frontendmasters.com/)의 후원으로 [Cody Lindley](http://codylindley.com/)에 의해 작성되었으며, 한국어 번역은 [하얀마인드](http://hayanmind.com)의 후원으로 작성되었습니다.
 
 React를 간결한 요리책처럼 배워보세요. 이런 방식은 이전의 깨우치기 출판물에서도 보실 수 있습니다. (예: [jQuery 깨우치기](http://jqueryenlightenment.com/), [JavaScript 깨우치기](http://javascriptenlightenment.com/), [DOM 깨우치기](http://domenlightenment.com/))
 
