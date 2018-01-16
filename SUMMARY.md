@@ -5,7 +5,7 @@
 * [3. React & Babel 기본적인 셋업](react-basic-setup.md)
     * [3.1 react.js & react-dom.js 사용하기](react-basic-setup/3.1.md)
     * [3.2 Babel을 통해 JSX 사용하기](react-basic-setup/3.2.md)
-    * [3.3 React에서 ES6 & ES* 사용하기](react-basic-setup/3.3.md)
+    * [3.3 React와 함께 ES6 & ES* 사용하기](react-basic-setup/3.3.md)
     * [3.4 JSFiddle을 이용해 React 작성하기](react-basic-setup/3.4.md)
 * [4. React Nodes](react-nodes.md)
     * [4.1 What Is a React Node?](react-nodes/4.1.md)
