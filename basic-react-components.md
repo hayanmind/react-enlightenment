@@ -1,3 +1,3 @@
-# Basic React Components
+# 기본적인 React 컴포넌트
 
-This chapter will show how React nodes are used to create basic React components.
+이번 섹션에서는 React 노드를 이용해 어떻게 기본적인 React 컴포넌트를 만드는지에 대해 이야기합니다.

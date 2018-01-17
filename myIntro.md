@@ -9,7 +9,7 @@ React를 간결한 요리책처럼 배워보세요. 이런 방식은 이전의 �
 **온라인에서 읽기**: 
 
 * 영어(원문): [reactenlightenment.com](http://www.reactenlightenment.com/)
-* 한국어(번역본): [hayanmind.gitbooks.io/react-enlightenment-in-korean/content](https://hayanmind.gitbooks.io/react-enlightenment-in-korean/content)
+* 한국어(번역본): [hayanmind.gitbooks.io/react-enlightenment-in-korean](https://hayanmind.gitbooks.io/react-enlightenment-in-korean)
 
 **.pdf, .epub, 또는 .mobi 파일로 다운로드하기**:
 

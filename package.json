@@ -1,21 +1,21 @@
 {
   "name": "react-enlightenment",
   "version": "1.0.0",
-  "description": "Written by [Cody Lindley](http://codylindley.com/) sponsored by — [Frontend Masters](https://frontendmasters.com/)",
+  "description": "원문은 [Frontend Masters](https://frontendmasters.com/)의 후원으로 [Cody Lindley](http://codylindley.com/)에 의해 작성되었으며, 한국어 번역은 [하얀마인드](http://hayanmind.com)의 후원으로 작성되었습니다.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrontendMasters/react-enlightenment.git"
+    "url": "git+https://github.com/hayanmind/react-enlightenment.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FrontendMasters/react-enlightenment/issues"
+    "url": "https://github.com/hayanmind/react-enlightenment/issues"
   },
-  "homepage": "https://github.com/FrontendMasters/react-enlightenment#readme",
+  "homepage": "https://github.com/Hayanmind/react-enlightenment#readme",
   "devDependencies": {
     "eslint": "^2.7.0",
     "eslint-config-standard": "^5.1.0",

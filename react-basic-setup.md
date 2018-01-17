@@ -1,6 +1,3 @@
-# React Setup
+# React 셋업
 
-This section will discuss setting up an HTML page so that when it is parsed by a web browser, at runtime, the browser can transform JSX expressions and correctly run React code.
-
-
-
+이번 섹션에서는 HTML 페이지를 셋업함으로써 페이지가 웹브라우저에 의해 해석될 때 브라우저가 실시간으로 JSX 표현들을 변환하고 React 코드를 제대로 실행할 수 있도록 합니다.

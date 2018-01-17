@@ -1,4 +1,4 @@
-# React는 무엇인가요?
+# React란 무엇인가요?
 
 React는 state가 없거나 state를 저장하는 사용자 인터페이스를 쉽게 추론하고, 쉽게 구성하고, 쉽게 유지하도록 만들어주는 JavaScript 도구입니다. React는 React 노드라고 불리는 HTML과 유사한 노드들을 이용해 선언형으로 선언하고 UI를 React 컴포넌트라고도 알려진 UI 컴포넌트로 나누는 수단을 제공합니다. React 노드는 결국에는 UI 렌더링을 위한 형태로 변환됩니다. (예: HTML/DOM, canvas, svg 등)
 
