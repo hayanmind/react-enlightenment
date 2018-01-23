@@ -247,7 +247,7 @@ ReactDOM.render(<MySelect />, document.getElementById('app'));
 
 다음으로 해야 할 일은 현재 state를 `<MyOption>` 컴포넌트로 전달해 컴포넌트의 state에 따라 시각적으로 반응할 수 있게 하는 것입니다.
 
-다시 props를 사용해, 모든 `<MyOption>` 컴포넌트에 property로 `state={this.state.selected}`를 위치시켜, `selected` state를 `<MySelect>` 컴포넌트에서 `<MyOption>` 컴포넌트로 넘겨주겠습니다. 이제 우리는 state(예: `this.props.state`)와 옵션의 현재 값(예: `this.props.value`)을 알기 때문에 state가 주어진 `<MyOption>` 컴포넌트의 값과 일치하는지 확인할 수 있습니다. 일치하는 경우에는 이 옵션이 선택된 것이라는 걸 알 것입니다. 이것을 구현하기 위해서, state가 현재 옵션의 값과 일치하면 JSX `<div>`에 스타일이 입혀진 선택된 state(예: `selectedStyle`)를 추가하는 간단한 `if` 선언문을 적으면 됩니다. 일치하지 않는다면, `unSelectedStyle` 스타일이 붙은 React 요소를 반환합니다.
+다시 props를 사용해, 모든 `<MyOption>` 컴포넌트에 속성으로 `state={this.state.selected}`를 위치시켜, `selected` state를 `<MySelect>` 컴포넌트에서 `<MyOption>` 컴포넌트로 넘겨주겠습니다. 이제 우리는 state(예: `this.props.state`)와 옵션의 현재 값(예: `this.props.value`)을 알기 때문에 state가 주어진 `<MyOption>` 컴포넌트의 값과 일치하는지 확인할 수 있습니다. 일치하는 경우에는 이 옵션이 선택된 것이라는 걸 알 것입니다. 이것을 구현하기 위해서, state가 현재 옵션의 값과 일치하면 JSX `<div>`에 스타일이 입혀진 선택된 state(예: `selectedStyle`)를 추가하는 간단한 `if` 선언문을 적으면 됩니다. 일치하지 않는다면, `unSelectedStyle` 스타일이 붙은 React 요소를 반환합니다.
 
 > [source code](https://jsfiddle.net/L1z9za23/#tabs=js,result,html,resources)
 

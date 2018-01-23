@@ -25,7 +25,7 @@ Babel은 [Babel CLI](https://babeljs.io/docs/usage/cli/)라 불리는 CLI 도구
 ***
 
 #### Document Object Model / DOM
-"문서 객체 모델(DOM)은 HTML, XML과 SVG 문서를 위한 프로그래밍 인터페이스입니다. DOM은 문서의 구조화된 표현을 트리처럼 제공합니다. DOM은 트리로의 접근을 허용하는 메소드를 정의하고, 그것으로 문서 구조, 스타일과 내용을 바꿀 수 있게 합니다. DOM은 문서 표현을 다양한 properties와 메소드를 가지고 있는 노드와 오브젝트들의 구조화된 그룹처럼 제공합니다. 노드는 각각에 붙어 있는 이벤트 핸들러를 가질 수 있고, 한 번 이벤트가 트리거되면 이벤트 핸들러가 실행됩니다. 근본적으로, DOM은 웹 페이지를 스크립트나 프로그래밍 언어와 연결합니다." - [MSD](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+"문서 객체 모델(DOM)은 HTML, XML과 SVG 문서를 위한 프로그래밍 인터페이스입니다. DOM은 문서의 구조화된 표현을 트리처럼 제공합니다. DOM은 트리로의 접근을 허용하는 메소드를 정의하고, 그것으로 문서 구조, 스타일과 내용을 바꿀 수 있게 합니다. DOM은 문서 표현을 다양한 속성과 메소드를 가지고 있는 노드와 오브젝트들의 구조화된 그룹처럼 제공합니다. 노드는 각각에 붙어 있는 이벤트 핸들러를 가질 수 있고, 한 번 이벤트가 트리거되면 이벤트 핸들러가 실행됩니다. 근본적으로, DOM은 웹 페이지를 스크립트나 프로그래밍 언어와 연결합니다." - [MSD](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ***
 
@@ -70,7 +70,7 @@ JavaScript의 현재 버전과 Babel 같은 도구를 이용해 오늘날에도 
 Props는 다양한 역할을 가지고 있습니다:
 
 1. Props는 HTML 속성이 될 수 있습니다. prop이 알려져 있는 HTML 속성과 일치한다면, DOM의 마지막 HTML 요소로 추가됩니다.
-2. `createElement()`로 전달된 Props은 `React.createElement()` 인스턴스의 인스턴스 property처럼 prop 오브젝트에 저장된 값이 됩니다. Props는 주로 컴포넌트로의 입력값으로 사용됩니다.
+2. `createElement()`로 전달된 Props은 `React.createElement()` 인스턴스의 인스턴스 속성처럼 prop 오브젝트에 저장된 값이 됩니다. Props는 주로 컴포넌트로의 입력값으로 사용됩니다.
 3. 몇몇의 특별한 props는 부작용이 있습니다. (예: [`key`](https://facebook.github.io/react/docs/multiple-components.html#dynamic-children), [`ref`](https://facebook.github.io/react/docs/more-about-refs.html), 그리고 [`dangerouslySetInnerHTML`](https://facebook.github.io/react/tips/dangerously-set-inner-html.html))
 
 ***
@@ -96,7 +96,7 @@ React 노드(예: 요소와 텍스트 노드)는 React에서의 기본적인 오
 ***
 
 #### React Node Factories
-특정 타입 property를 가진 React 요소 노드를 생산하는 함수입니다.
+특정 타입 속성을 가진 React 요소 노드를 생산하는 함수입니다.
 
 ***
 
